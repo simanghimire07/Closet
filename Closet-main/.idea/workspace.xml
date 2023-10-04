@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed3e9007-c094-41d5-b259-517e1685f153" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PSD/main-section-girl.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/animate-logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/product-cards.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/BrandDetails.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/FabricType.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/PropertyDetail.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cid.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/csv/BrandDetails.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/csv/ClothType.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/csv/FabricType.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/csv/looooo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/csv/looooo.csv.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/csv/sizeDescription.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/gender.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/product_img/product_1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sizeDescription.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Standing-women.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/abstract-art.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/clothes.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/clsoset-login-page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/main-section-girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/neon-logo-blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/neon-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/section-2-main-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/section-2-sub-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shopping-girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/side-img-login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/import-product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/login-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/navcontrol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partials/logo-animation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partials/main-section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partials/page-1-section-3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/partials/second-section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product_img/product_1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/account-management.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/check_login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/fetch-products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/main.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/closet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/closet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/601eacc6-3f04-4833-80a9-9bf6a6acbe2b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/601eacc6-3f04-4833-80a9-9bf6a6acbe2b.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/control.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/control.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partials/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/partials/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/conn.php" beforeDir="false" afterPath="$PROJECT_DIR$/services/conn.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="closet@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/partials/nav.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/services/conn.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/601eacc6-3f04-4833-80a9-9bf6a6acbe2b/console.sql" />
+        <option value="$PROJECT_DIR$/css/control.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/nav.css" />
+        <option value="$PROJECT_DIR$/partials/nav.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectId" id="2IUdTU3XtthSKm0rFsXCm9Kenxs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="closet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="closet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="closet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="closet" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/closet/data/csv/looooo.csv&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.emmet&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\closet\img" />
+      <recent name="C:\xampp\htdocs\closet\css" />
+      <recent name="C:\xampp\htdocs\closet\css\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\closet\img" />
+      <recent name="C:\xampp\htdocs\closet\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 8.1" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed3e9007-c094-41d5-b259-517e1685f153" name="Default Changelist" comment="" />
+      <created>1670231121767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670231121767</updated>
+      <workItem from="1670231124692" duration="2469000" />
+      <workItem from="1670240107775" duration="194000" />
+      <workItem from="1670240817641" duration="5578000" />
+      <workItem from="1670255334014" duration="501000" />
+      <workItem from="1670333616692" duration="2291000" />
+      <workItem from="1670509494767" duration="2607000" />
+      <workItem from="1670512893934" duration="4391000" />
+      <workItem from="1670562196853" duration="9182000" />
+      <workItem from="1670579137055" duration="652000" />
+      <workItem from="1670589662907" duration="1485000" />
+      <workItem from="1670754907705" duration="443000" />
+      <workItem from="1670757493343" duration="3413000" />
+      <workItem from="1670775639125" duration="5654000" />
+      <workItem from="1670821040411" duration="8364000" />
+      <workItem from="1670831610388" duration="1292000" />
+      <workItem from="1670835672883" duration="1084000" />
+      <workItem from="1670908528915" duration="6065000" />
+      <workItem from="1670995807964" duration="8863000" />
+      <workItem from="1671006657529" duration="1606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2469000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1328859" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3295129" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" weight="0.3295129" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" weight="0.16174497" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/services/conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/601eacc6-3f04-4833-80a9-9bf6a6acbe2b/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="76" selection-start-column="2" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/control.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/nav.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

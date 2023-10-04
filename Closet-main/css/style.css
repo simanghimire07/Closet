@@ -1,0 +1,230 @@
+@import "control.css";
+html,body{
+    scroll-snap-type: y mandatory;
+}
+body>section{
+    height: 100vh;
+    overflow: hidden;
+    scroll-snap-align: start;
+}
+.main-section{
+    /*margin-top: 20px;*/
+    display: flex;
+    /*padding: 0;*/
+    justify-content: space-between;
+}
+
+.split-left{
+    width: 50%;
+    padding: 0 0px;
+    overflow: hidden;
+    height: calc(100% - 50px - 30px);
+}
+.split-left>img{
+    width: 90%;
+    transform: translateY(-7%);
+}
+
+.split-right{
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.title{
+    font-size: xxx-large;
+    letter-spacing: 5px;
+    text-transform: capitalize;
+}
+
+.inline-btn{
+    width: fit-content;
+    margin-top: 20px;
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+.trending{
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+}
+.checkmark{
+    background: var(--primary);
+    padding: 10px;
+    color: #fff;
+    border-radius: 100%;
+    border: 1px solid #fff;
+}
+
+.trending>span:hover{
+    cursor: pointer;
+    color: var(--primary);
+    text-decoration: underline;
+    transition: 100ms all;
+}
+
+/*.checkmark:hover{*/
+/*    color: var(--primary);*/
+/*    background: #fff;*/
+/*    border: var(--primary) 1px solid;*/
+/*    cursor: pointer;*/
+/*}*/
+
+.first-box{
+    font-size: large;
+}
+.boxes{
+    display: flex;
+    column-gap: 30px;
+    margin-top: 40px;
+    text-transform: uppercase;
+}
+
+.box>span{
+    color: #ffffff;
+    /*transform: translateY(-100%);*/
+
+}
+
+.box>span.overflow{
+    color: #000;
+    /*transform: translateX(-40%);*/
+}
+.box-shadow-text{
+    font-family: "Book Antiqua";
+    text-shadow: 1px 1px 10px #888;
+    font-weight: bolder;
+}
+.box-shadow-text>span{
+    /*transform: rotate(-30deg) translate(20%,30%);*/
+}
+.box-shadow-text>.small-text{
+    font-size: 30px;
+}
+.box-shadow-text>.large-text{
+    font-size: 50px;
+}
+
+.second-section{
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+.side-logo{
+    position: absolute;
+    left: 0%;
+    margin-top: 5%;
+    font-size: x-large;
+    /*top: 50;*/
+    transform: rotate(-90deg);
+}
+.second-section>.section-description{
+    width: 37%;
+    z-index: 999;
+    text-align: justify;
+    font-size: xx-large;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.main-img-holder{
+    position: relative;
+    left: 80%;
+    transform: translate(-80%,20%);
+    width: 45%;
+    z-index: 98 ;
+}
+
+.main-img-holder>img{
+    width: 100%;
+}
+
+.floating-second-img{
+    position: relative;
+    z-index: 99;
+    width: 25%;
+    left: 30%;
+    transform: translateY(-30%);
+}
+.floating-second-img>img{
+    width: 100%;
+}
+
+.hamburger-menu-trigger{
+    position: relative;
+    z-index: 99999;
+    bottom: 100%;
+    font-size: xx-large;
+    margin-top: 10px;
+    left: 95%;
+    cursor: pointer;
+}
+
+.menu{
+
+}
+
+.third-section{
+
+
+}
+.gradiant-text-pink{
+    background: -webkit-linear-gradient(-45deg,#B977F6, #FD9BC7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.third-section>.animation>.section-title{
+    padding: 30px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.third-section>.animation>.subtitle{
+    text-align: center;
+    color: #888;
+}
+
+.search-wrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.search-field{
+    background: #FAFAFA;
+    padding: 5px 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.search-field>ion-icon{
+    color: #ccc;
+}
+.search-field>input::placeholder{
+    color: #ccc;
+}
+.search-field>input{
+    color: #ccc;
+    padding: 7px;
+    border: none;
+    background: transparent;
+    outline:none;
+    box-shadow: none;
+    margin-left: 5px;
+
+}
+.search-field>button{
+    border: 1px solid #FAFAFA;
+    box-shadow: none;
+    padding: 10px 20px;
+    color: white;
+    background: #B977F6;
+}
+
+.search-field>button:hover{
+    border: 1px solid #B977F6;
+    color: #B977F6;
+    background: #fff;
+    transition: all ease 100ms;
+}
